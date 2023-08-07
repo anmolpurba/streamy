@@ -51,14 +51,6 @@ Streamy comes with a built-in dark mode feature that allows users to switch betw
 
 ![App Screenshot](https://i.imgur.com/s5Jt9CT.png)
 
-
-## ➡️ Getting Started
-To get started with the Streamy application, follow these steps:
-
-    1. Clone the repository: git clone https://github.com/chinmay021/Streamy.git
-    2. Install the dependencies: npm install
-    3. Start the application: npm start
-![install](https://i.imgur.com/KS3thn0.png)
 ## 🤝 Contribution
 
 Contributions are always welcome!\
